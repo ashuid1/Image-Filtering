@@ -15,6 +15,6 @@ All this Kind of Work are done by Just by own function , the basic idea to work 
 2. OpenCV2 : This is very imaportant library because this will help to generate the image on the real time
 3. Matplotlib: Used to plting the pixel value for better understanding
 
-## The main task of the image processing is to knoe the pixel value of the each point so use addition apps that will help on this work.
+## The main task of the image processing is to know the pixel value of the each point so use addition apps that will help on this work.
 
 ### For any kind of quary and comments on [LinkedIn](https://www.linkedin.com/in/ashu-toshkr)
